@@ -19,3 +19,4 @@ Variations
 Graphql
 Cloud
 All
+Mobile
