@@ -18,5 +18,4 @@ regex
 Variations
 Graphql
 Cloud
-Cloud
 All
